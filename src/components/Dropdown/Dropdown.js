@@ -86,11 +86,11 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://linkedin.com/in/pedro-sales-muniz"
+          href="https://www.linkedin.com/in/saieswarreddymenakuru/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume
+          LinkedIn
         </a>
       </NavBtn>
     </SiderBar>
